@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>delete_TC1</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>2e939329-1777-44ea-ba5a-7e7a78db2641</testCaseGuid>
-</TestCaseEntity>
